@@ -1,0 +1,6 @@
+format: jb-book
+root: index
+chapters:
+- file: 1_SpectroscopicTraceTutorial
+- file: 2_WavelengthCalibration
+- file: 3_Trace_Extract_Wavelength-CalibrateSpectrum
