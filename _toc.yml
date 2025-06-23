@@ -1,5 +1,5 @@
 format: jb-book
-root: index
+root: index-spectroscopy
 chapters:
 - file: 1_SpectroscopicTraceTutorial
 - file: 2_WavelengthCalibration
